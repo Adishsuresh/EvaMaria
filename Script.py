@@ -11,8 +11,8 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- This is a private project if you want to make a bot like this contact devs. 
-- Source - https://t.me/LoVe_MySeLf_168  
+- myG Autofilter is a open source project. 
+- Source - https://github.com/EinsteinTG/myG_Autofilter  
 
 <b>DEVS:</b>
 - <a href=https://t.me/LoVe_MySeLf_168>❤️</a>"""
